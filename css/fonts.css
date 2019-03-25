@@ -1,0 +1,43 @@
+/*FONTS - RALEWAY & FILSON*/
+
+@font-face {
+	font-family: 'Raleway';
+	src: url('../fonts/Raleway/Raleway-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Raleway-bold';
+	src: url('../fonts/Raleway/Raleway-bold.ttf');
+}
+
+@font-face {
+	font-family: 'Raleway-semibold';
+	src: url('../fonts/Raleway/Raleway-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: 'Raleway-Light';
+	src: url('../fonts/Raleway/Raleway-Light.ttf');
+}
+
+
+
+@font-face {
+	font-family: 'FilsonProBlack';
+	src: url('../fonts/Filson Pro/FilsonPro.ttf');
+}
+
+@font-face {
+	font-family: 'FilsonProBold';
+	src: url('../fonts/Filson Pro/FilsonProBold.ttf');
+}
+
+@font-face {
+	font-family: 'FilsonProHeavy';
+	src: url('../fonts/Filson Pro/FilsonProHeavy.ttf');
+}
+
+@font-face {
+	font-family: 'FilsonProRegular';
+	src: url('../fonts/Filson Pro/FilsonProRegular.ttf');
+}

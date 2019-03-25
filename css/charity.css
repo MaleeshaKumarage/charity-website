@@ -1,0 +1,416 @@
+body {
+    font-family: 'HK Grotesk', sans-serif;
+}
+
+.columns {
+    margin-top: 0rem !important;
+}
+
+/*
+––––––––––––––––––––
+Banner
+––––––––––––––––––––
+*/
+
+.banner {
+    background-color: #3b3b3b;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 2px;
+    padding: 20px 0 18px 0;
+    font-size: 15px;
+    text-align: center;
+}
+
+.banner span {
+    font-size: 10px;
+}
+
+.banner .btn-donate {
+    background-color: rgb(234, 46, 71);
+    box-shadow: 0px 0px 7px 0px rgba(56, 56, 56, 0.46);
+    color: #fff;
+    font-weight: 500;
+    border: 2px solid #ea2e47;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 0px;
+    margin-left: 13px;
+    padding: .5rem 1.3rem;
+}
+
+.banner .btn-donate:hover {
+    color: #ea2e47 !important;
+    border: 2px solid #fff;
+    background-color: white;
+}
+
+.line {
+    background-color: rgb(234, 46, 71);
+    top: 50px;
+    width: 100%;
+    height: 2.3px;
+
+}
+
+
+
+/*
+––––––––––––––––––––
+Navigation
+––––––––––––––––––––
+*/
+
+.navbar-menu {
+    background-color: #303030;
+    padding: 30px;
+}
+
+.navbar-menu img {
+    padding-left: 60px;
+}
+
+.navbar-menu .navbar-end {
+    padding-right: 60px;
+}
+
+.navbar-menu .navbar-end .nav-item {
+    padding: 19px 20px;
+}
+
+.navbar-menu .navbar-end .nav-item a {
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.navbar-menu .navbar-end .nav-item a:hover {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ea2e47;
+}
+
+.navbar-menu .navbar-end .nav-item .active {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ea2e47;
+}
+
+/*
+––––––––––––––––––––
+Typography
+––––––––––––––––––––
+*/
+
+.c-title {
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 60px;
+    text-shadow: 0px 1px 0px rgba(56, 56, 56, 0.46);
+}
+
+.c-paragraph {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 19px;
+    font-weight: 100;
+    line-height: 38px;
+}
+
+
+
+
+/*
+––––––––––––––––––––
+Hero
+––––––––––––––––––––
+*/
+
+.hero {
+    color: #fff;
+    position: relative;
+}
+
+.column.hero {
+
+    background-image: -moz-linear-gradient( -144deg, rgba(255, 115, 106, 0) 0%, rgb(97, 42, 49) 100%), url(../img/hero.png);
+    background-image: -webkit-linear-gradient( -144deg, rgba(255, 115, 106, 0) 0%, rgb(97, 42, 49) 100%), url(../img/hero.png);
+    background-image: -ms-linear-gradient( -144deg, rgba(255, 115, 106, 0) 0%, rgb(97, 42, 49) 100%), url(../img/hero.png);
+    background-color: #626262;
+
+}
+
+
+
+.hero .set {
+    padding: 10% 10%;
+}
+
+
+a {
+    color: #fff;
+    font-size: 15px;
+}
+
+a:hover {
+    color: #fff !important;
+}
+
+
+
+/*
+––––––––––––––––––––
+About Us
+––––––––––––––––––––
+*/
+
+.about .set-2 {
+    padding: 10% 10%;
+
+}
+
+.small-title {
+    text-transform: uppercase;
+    color: #cac6c6;
+    font-size: 17.5px;
+    font-weight: 600;
+    letter-spacing: 2px;
+
+}
+
+
+.t-about {
+    color: rgb(234, 46, 71);
+    margin-top: 8px;
+}
+
+
+.about-pic {
+    padding-left: 10&;
+    padding-top: 5%;
+
+
+}
+
+.pic {
+    width: 455px;
+    right: 100px;
+}
+
+
+
+/*
+––––––––––––––––––––
+Subscription
+––––––––––––––––––––
+*/
+
+.columns.subs {
+    position: relative;
+    background-color: #ea2e47;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: -9em;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .1);
+}
+
+.subs-title {
+    padding: 2% 1%;
+    font-size: 2em;
+    color: #fff;
+    font-weight: 400;
+    text-shadow: 0px 1px 0px rgba(56, 56, 56, 0.46);
+
+}
+
+
+.subs-p {
+    color: #fff;
+    padding-left: 2%;
+}
+
+.subs-input {
+    border-radius: 2px;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 3% 0 3% 3%;
+    border: 2px solid white;
+    color: #323232;
+    width: 100%;
+    margin-top: 90px;
+}
+
+.b-subs {
+    border: 2px solid white;
+    padding: 11px 25px;
+    font-weight: 500;
+}
+
+.b-subs:hover {
+    border: 2px solid white;
+    background-color: white;
+    color: #ea2e47 !important;
+}
+
+.sub-button {
+    margin-top: 100px;
+}
+
+
+/*
+––––––––––––––––––––
+Fostering & Adoption
+––––––––––––––––––––
+*/
+
+.column.foster {
+    background-image: -moz-linear-gradient( 30deg, rgba(255, 115, 106, 0) 0%, rgb(97, 42, 49) 100%), url(../img/foster.png);
+    background-image: -webkit-linear-gradient( 30deg, rgba(255, 115, 106, 0) 0%, rgb(97, 42, 49) 100%), url(../img/foster.png);
+    background-image: -ms-linear-gradient( 30deg, rgba(255, 115, 106, 0) 0%, rgb(97, 42, 49) 100%), url(../img/foster.png);
+    background-color: #626262;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.foster .set {
+    padding-left: 9%;
+    padding-right: 9%;
+
+
+}
+
+.c-white {
+    color: #fff;
+}
+
+.c-text {
+    padding-top: 180px;
+}
+
+
+.play-btn {
+    padding-left: 30%;
+    padding-top: 50%;
+}
+
+.play:hover {
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+}
+
+.play {
+    top: 23px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s;
+}
+
+
+
+/*
+––––––––––––––––––––
+Buttons
+––––––––––––––––––––
+*/
+
+.btn-set {
+    margin-top: 50px;
+}
+
+.b-about {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ea2e47;
+    background-color: rgba(101, 101, 101, 0);
+    width: 157px;
+    padding: 17px 40px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #ea2e47;
+}
+
+.b-about:hover {
+    background-color: #ea2e47;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: .5s;
+
+}
+
+.c-btn {
+    margin-top: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #fff;
+    background-color: rgba(101, 101, 101, 0);
+    width: 157px;
+    padding: 17px 40px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #fff;
+}
+
+.c-btn:hover {
+    background-color: white;
+    text-decoration: none;
+    color: #ea2e47 !important;
+    transition-duration: .5s;
+
+}
+
+
+/*
+Mobile View
+–––––––––––––– 
+*/
+
+@media (max-width: 550px) {
+
+    .banner {
+        letter-spacing: 2px;
+        font-size: 14px;
+    }
+
+    .banner a {
+        font-size: 8px;
+    }
+
+    .test-nav img {
+        width: 90px;
+    }
+
+    .banner .btn-donate {
+        margin-top: 100px;
+    }
+}
+
+/*
+Footer
+--------
+*/
+
+.footer {
+    padding: 4% 6%;
+    background-color: #3b3b3b;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    color: white;
+    text-align: left;
+
+}
+
+.footer h1 {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer p a:hover {
+    text-decoration: underline;
+}
+
+.footer .copyright {
+    padding-top: 5%;
+}
